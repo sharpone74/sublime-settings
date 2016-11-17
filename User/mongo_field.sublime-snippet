@@ -1,0 +1,9 @@
+<snippet>
+    <content>field :${1:name}, type: ${2:mongoType}</content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>fd</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.ruby</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>mongoid field</description>
+</snippet>
