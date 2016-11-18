@@ -1,7 +1,7 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"default_line_ending": "unix",
-	"detect_indentation": false,
+	"detect_indentation": true,
 	"font_face": "Source Code Pro",
 	"font_size": 12,
 	"ignored_packages":

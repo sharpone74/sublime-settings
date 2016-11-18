@@ -39,12 +39,14 @@ $ npm run test
 ## Credits
 
 Themes creators
+ - [LingTalfi](https://github.com/lingtalfi)
  - [Zayn Ali](https://twitter.com/zaynali53)
  - Neil Cresswell ([Dark Room](https://github.com/NeilCresswell/themes) themes)
  - [Dave Luke Jr](http://davelukejr.com)
  - David Heinemeier Hansson
  - Amy
  - Blackboard
+ - [Kary Foundation](https://github.com/karyfoundation)
  - Thomas Aylott
  - Austin Cummings
  - Jacob Rus
@@ -89,3 +91,11 @@ Themes creators
  - [HaCk3D](https://github.com/HaCk3Dq)
  - [MattDMo](https://github.com/MattDMo)
  - [Ritashugisha](https://github.com/ritashugisha)
+ - [Younes Zakaria](https://github.com/drcd)
+ - [Taiwo Kareem](https://github.com/tushortz) - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
+ - [irstacks](https://github.com/irstacks)
+ - [Praveen Puglia](http://praveenpuglia.com)
+ - [Consigliere](http://github.com/clthck)
+ - Giovane de Oliveira ([Mosquito13](https://github.com/Mosquito13))
+ - Odepax ([Mars Peacock](https://github.com/Odepax/mars-peacock))
+ - weop ([weop](https://github.com/weop))
